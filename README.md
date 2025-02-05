@@ -20,8 +20,11 @@ This Power BI project analyzes laptop sales trends, customer purchasing behavior
 
 ## Project Outcome ##
 ✅ Identified best-selling laptop brands and their demand across different price categories.
+
 ✅ Discovered which customer segments (age/income) prefer premium vs. budget laptops.
+
 ✅ Analyzed the most common purchase modes (EMI, cash, online, or offline sales).
+
 ✅ Provided business insights to help retailers optimize marketing strategies and inventory management.
 
 
