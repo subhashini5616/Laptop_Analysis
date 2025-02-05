@@ -6,7 +6,7 @@ This Power BI project analyzes laptop sales trends, customer purchasing behavior
 
 1. Data Profiling & Cleaning → Ensured data consistency, removed duplicates, and handled missing values.
 2. Categorization → Grouped laptops into Budget, Mid-Range, High-End, and Premium categories based on price.
-3. Customer Segmentation → Analyzed purchasing patterns by age, income level, and city.
+3. Customer Segmentation → Analyzed purchasing patterns by age, income level, and city. 
 4. Purchase Frequency Analysis → Identified popular laptop brands and customer retention trends.
 5. Interactive Dashboard → Visualized sales performance, trends, and insights using Power BI.
 
